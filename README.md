@@ -22,7 +22,7 @@
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/yourusername
+- GitHub: https://github.com/danekarprathamesh
 - LinkedIn: https://www.linkedin.com/in/prathamesh-danekar-32951036a?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
